@@ -5,5 +5,5 @@ A naming convention for the scenarios would be nice. I used some convention that
 * Where to put the files:
 
 ```batch
-<where ever steam installs AoE2HD>\Age2HD\resources\_common\scenario\
+<where ever your SteamLibrary-steamapps-common folder is>\Age2HD\resources\_common\scenario\
 ```
