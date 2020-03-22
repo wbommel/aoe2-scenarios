@@ -1,7 +1,13 @@
-# aoe2-scenarios
-A naming convention would'nt be too bad.
+# Age of Empires Scenarios
 
-A naming convention would be nice. 
+Here we gather self made scenarios for the **Age of Empires** games.
 
-Where to put the files:
-<where ever steam installs your games>\Age2HD\resources\_common\scenario\
+Use the links below to find your favorite games scenarios.
+* [**Age of Empires 2 HD**][1]
+* [**Age od Empires 2 DE (Definitive Edition)**][2]
+
+
+
+
+[1]: https://github.com/wbommel/aoe2-scenarios/AoE2HD "AoE2HD"
+[2]: https://github.com/wbommel/aoe2-scenarios/AoE2DE "AoE2DE"
